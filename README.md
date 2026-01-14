@@ -1,2 +1,3 @@
 # Exerc-cios1.py
-Exercícios iniciante em python - iniciando do zero 
+Exercícios propostos pelo professore de programação web com beckend em python
+
